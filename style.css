@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner-wrap{
+    position: relative;
+}
+
+.banner-wrap{
+    height: 100vh;
+    width: 100vw;
+}
+
+.banner-text{
+    position: absolute;
+    top: 0;
+    color: red;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.svgviewBox{
+    height: 24;
+    width: 88.8;
+    color: rgb(177, 12, 12);
+    cursor: pointer;
+}
+
+.text{
+    color: white;
+    text-align: center;
+}
+
+.header{
+    system: float right;
+    display: flex;
+align-items: self-end;
+justify-content: right;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
